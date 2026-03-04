@@ -10,8 +10,9 @@
 
 AutoMapper is a simple little library built to solve a deceptively complex problem - getting rid of code that mapped one object to another. This type of code is rather dreary and boring to write, so why not invent a tool to do it for us?
 
-This is the main repository for AutoMapper, but there's more:
+This is a forked repository for AutoMapper Version 13.0.1 with frozen features and api, but there's more:
 
+* [AutoMapper](https://github.com/LuckyPennySoftware/AutoMapper) with latest version and features.
 * [Collection Extensions](https://github.com/AutoMapper/AutoMapper.Collection)
 * [Expression Mapping](https://github.com/AutoMapper/AutoMapper.Extensions.ExpressionMapping)
 * [EF6 Extensions](https://github.com/AutoMapper/AutoMapper.EF6)
