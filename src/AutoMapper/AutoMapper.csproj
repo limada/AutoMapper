@@ -12,7 +12,9 @@
     <PackageIcon>icon.png</PackageIcon>
     <PackageProjectUrl>https://automapper.org</PackageProjectUrl>
     <PackageReadmeFile>README.md</PackageReadmeFile>
-
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <RepositoryType>git</RepositoryType>
+    <RepositoryUrl>https://github.com/Limada/AutoMapper</RepositoryUrl>
     <MinVerDefaultPreReleaseIdentifiers>preview.0</MinVerDefaultPreReleaseIdentifiers>
     <MinVerTagPrefix>v</MinVerTagPrefix>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
