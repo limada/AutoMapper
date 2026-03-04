@@ -8,7 +8,7 @@
     <AssemblyName>AutoMapper</AssemblyName>
     <SignAssembly>false</SignAssembly>
     <PublicSign Condition=" '$(OS)' != 'Windows_NT' ">false</PublicSign>
-    <PackageId>AutoMapper</PackageId>
+    <PackageId>Limada.AutoMapper</PackageId>
     <PackageIcon>icon.png</PackageIcon>
     <PackageProjectUrl>https://automapper.org</PackageProjectUrl>
     <PackageReadmeFile>README.md</PackageReadmeFile>
